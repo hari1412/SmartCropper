@@ -14,6 +14,7 @@
 - 支持拖动锚点，手动调节选区，放大镜效果提升定位体验
 - 使用透视变换裁剪并矫正选区，还原正面图片
 - 支持丰富的UI设置，如辅助线，蒙版，锚点，放大镜等
+- it will help you detect decument
 
 ## 例子（[传送门](art/SmartCropperSampleV6.apk)）
 
